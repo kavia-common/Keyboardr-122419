@@ -1,0 +1,402 @@
+2025-08-13 13:32:50,820 - Knowledge - INFO - Redis support added with prefix knowledge:b5321oc:
+2025-08-13 13:32:51,150 - Knowledge - INFO - load persisted knowledge: begin
+2025-08-13 13:32:51,243 - Knowledge - INFO - load persisted knowledge: end
+2025-08-13 13:32:51,388 - Knowledge - INFO - load persisted docinfo: begin
+2025-08-13 13:32:51,484 - Knowledge - INFO - load persisted docinfo: end
+2025-08-13 13:32:51,607 - Knowledge - INFO - worker kw1 created with dedicated MongoDB connection (total: 1)
+2025-08-13 13:32:51,699 - Knowledge - INFO - knowledge worker kw1 start
+2025-08-13 13:32:51,701 - Knowledge - INFO - worker kw2 created with dedicated MongoDB connection (total: 2)
+2025-08-13 13:32:51,801 - Knowledge - INFO - worker kw1 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/products/[id].jsx from ingest queue
+2025-08-13 13:32:51,887 - Knowledge - INFO - knowledge worker kw2 start
+2025-08-13 13:32:51,889 - Knowledge - INFO - worker kw3 created with dedicated MongoDB connection (total: 3)
+2025-08-13 13:32:52,006 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/products/[id].jsx
+2025-08-13 13:32:52,060 - Knowledge - INFO - worker kw2 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/products/index.jsx from ingest queue
+2025-08-13 13:32:52,146 - Knowledge - INFO - knowledge worker kw3 start
+2025-08-13 13:32:52,147 - Knowledge - INFO - worker kw4 created with dedicated MongoDB connection (total: 4)
+2025-08-13 13:32:52,233 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:32:52,393 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/products/index.jsx
+2025-08-13 13:32:52,437 - Knowledge - INFO - worker kw3 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/api/hello.js from ingest queue
+2025-08-13 13:32:52,530 - Knowledge - INFO - knowledge worker kw4 start
+2025-08-13 13:32:52,533 - Knowledge - INFO - worker kw5 created with dedicated MongoDB connection (total: 5)
+2025-08-13 13:32:52,624 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:32:52,696 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:32:52,811 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/api/hello.js
+2025-08-13 13:32:52,862 - Knowledge - INFO - worker kw4 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/_document.js from ingest queue
+2025-08-13 13:32:52,978 - Knowledge - INFO - knowledge worker kw5 start
+2025-08-13 13:32:52,980 - Knowledge - INFO - worker kw6 created with dedicated MongoDB connection (total: 6)
+2025-08-13 13:32:53,099 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/products/[id].jsx
+2025-08-13 13:32:53,212 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:32:53,314 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:32:53,439 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/_document.js
+2025-08-13 13:32:53,487 - Knowledge - INFO - worker kw5 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/index.js from ingest queue
+2025-08-13 13:32:53,576 - Knowledge - INFO - knowledge worker kw6 start
+2025-08-13 13:32:53,578 - Knowledge - INFO - worker kw7 created with dedicated MongoDB connection (total: 7)
+2025-08-13 13:32:53,722 - Knowledge - INFO - adding /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/products/[id].jsx to ingest queue
+2025-08-13 13:32:53,736 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/products/index.jsx
+2025-08-13 13:32:53,848 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:32:54,092 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/index.js
+2025-08-13 13:32:54,250 - Knowledge - INFO - knowledge worker kw7 start
+2025-08-13 13:32:54,254 - Knowledge - INFO - worker kw8 created with dedicated MongoDB connection (total: 8)
+2025-08-13 13:32:54,348 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:32:54,349 - Knowledge - INFO - worker kw6 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/about/[id].js from ingest queue
+2025-08-13 13:32:54,349 - Knowledge - INFO - worker kw1 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/about/index.jsx from ingest queue
+2025-08-13 13:32:54,537 - Knowledge - INFO - adding /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/products/index.jsx to ingest queue
+2025-08-13 13:32:54,570 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/api/hello.js
+2025-08-13 13:32:54,875 - Knowledge - INFO - knowledge worker kw8 start
+2025-08-13 13:32:54,876 - Knowledge - INFO - worker kw9 created with dedicated MongoDB connection (total: 9)
+2025-08-13 13:32:54,979 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:32:55,099 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/about/[id].js
+2025-08-13 13:32:55,210 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/about/index.jsx
+2025-08-13 13:32:55,273 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:32:55,275 - Knowledge - INFO - worker kw7 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/_app.js from ingest queue
+2025-08-13 13:32:55,275 - Knowledge - INFO - worker kw2 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/styles/Home.module.css from ingest queue
+2025-08-13 13:32:55,463 - Knowledge - INFO - adding /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/api/hello.js to ingest queue
+2025-08-13 13:32:55,577 - Knowledge - INFO - knowledge worker kw9 start
+2025-08-13 13:32:55,688 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/_document.js
+2025-08-13 13:32:55,972 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:32:56,558 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/index.js
+2025-08-13 13:32:56,102 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/_app.js
+2025-08-13 13:32:56,223 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/styles/Home.module.css
+2025-08-13 13:32:56,271 - Knowledge - INFO - worker kw8 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/styles/globals.css from ingest queue
+2025-08-13 13:32:56,272 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:32:56,272 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:32:56,272 - Knowledge - INFO - worker kw3 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/package.json from ingest queue
+2025-08-13 13:32:56,361 - Knowledge - INFO - worker kw9 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/landingScreen.jsx from ingest queue
+2025-08-13 13:32:56,550 - Knowledge - INFO - adding /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/_document.js to ingest queue
+2025-08-13 13:32:57,429 - Knowledge - INFO - worker kw4 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/landing.jsx from ingest queue
+2025-08-13 13:32:56,950 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/styles/globals.css
+2025-08-13 13:32:56,994 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:32:57,115 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:32:57,233 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/package.json
+2025-08-13 13:32:57,358 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/landingScreen.jsx
+2025-08-13 13:32:55,579 - Knowledge - INFO - worker kw10 created with dedicated MongoDB connection (total: 10)
+2025-08-13 13:32:57,429 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:32:58,186 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:32:57,487 - Knowledge - INFO - adding /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/index.js to ingest queue
+2025-08-13 13:32:57,553 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/landing.jsx
+2025-08-13 13:32:57,728 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/about/[id].js
+2025-08-13 13:32:57,823 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/about/index.jsx
+2025-08-13 13:32:58,103 - Knowledge - INFO - knowledge worker kw10 start
+2025-08-13 13:32:58,105 - Knowledge - INFO - worker kw11 created with dedicated MongoDB connection (total: 11)
+2025-08-13 13:32:57,430 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:32:58,305 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/styles/Home.module.css
+2025-08-13 13:32:58,437 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:32:58,437 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:32:58,437 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:32:58,437 - Knowledge - INFO - worker kw5 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/rating.jsx from ingest queue
+2025-08-13 13:32:58,534 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:32:58,695 - Knowledge - INFO - adding /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/about/[id].js to ingest queue
+2025-08-13 13:32:58,921 - Knowledge - INFO - knowledge worker kw11 start
+2025-08-13 13:32:58,923 - Knowledge - INFO - worker kw12 created with dedicated MongoDB connection (total: 12)
+2025-08-13 13:32:59,003 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:32:59,199 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:32:59,324 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:32:59,441 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:32:59,574 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/rating.jsx
+2025-08-13 13:32:59,616 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:32:59,789 - Knowledge - INFO - worker kw10 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/features.jsx from ingest queue
+2025-08-13 13:32:59,846 - Knowledge - INFO - worker kw6 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/footer.jsx from ingest queue
+2025-08-13 13:32:59,846 - Knowledge - INFO - worker kw11 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/navbar.jsx from ingest queue
+2025-08-13 13:32:59,846 - Knowledge - INFO - adding /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/about/index.jsx to ingest queue
+2025-08-13 13:32:59,916 - Knowledge - INFO - knowledge worker kw12 start
+2025-08-13 13:32:59,918 - Knowledge - INFO - worker kw13 created with dedicated MongoDB connection (total: 13)
+2025-08-13 13:33:00,018 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/_app.js
+2025-08-13 13:33:00,099 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/styles/globals.css
+2025-08-13 13:33:00,177 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/package.json
+2025-08-13 13:33:00,273 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/landingScreen.jsx
+2025-08-13 13:33:00,488 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/landing.jsx
+2025-08-13 13:33:00,612 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/features.jsx
+2025-08-13 13:33:00,687 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/footer.jsx
+2025-08-13 13:33:00,790 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/navbar.jsx
+2025-08-13 13:33:00,870 - Knowledge - INFO - adding /app/data/T0015/122419/b5321oc/Keyboardr-122419/styles/Home.module.css to ingest queue
+2025-08-13 13:33:01,113 - Knowledge - INFO - knowledge worker kw13 start
+2025-08-13 13:33:01,116 - Knowledge - INFO - worker kw14 created with dedicated MongoDB connection (total: 14)
+2025-08-13 13:33:01,977 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:33:01,978 - Knowledge - INFO - worker kw1 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/products.jsx from ingest queue
+2025-08-13 13:33:01,979 - Knowledge - INFO - worker kw12 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/next.config.js from ingest queue
+2025-08-13 13:33:02,050 - Knowledge - INFO - adding /app/data/T0015/122419/b5321oc/Keyboardr-122419/styles/globals.css to ingest queue
+2025-08-13 13:33:02,183 - Knowledge - INFO - knowledge worker kw14 start
+2025-08-13 13:33:02,185 - Knowledge - INFO - worker kw15 created with dedicated MongoDB connection (total: 15)
+2025-08-13 13:33:02,264 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:33:02,417 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/products.jsx
+2025-08-13 13:33:02,502 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/next.config.js
+2025-08-13 13:33:02,701 - Knowledge - INFO - adding /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/landing.jsx to ingest queue
+2025-08-13 13:33:02,795 - Knowledge - INFO - knowledge worker kw15 start
+2025-08-13 13:33:02,798 - Knowledge - INFO - worker kw16 created with dedicated MongoDB connection (total: 16)
+2025-08-13 13:33:02,885 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/rating.jsx
+2025-08-13 13:33:03,152 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:33:03,153 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:33:03,214 - Knowledge - INFO - worker kw2 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/postcss.config.js from ingest queue
+2025-08-13 13:33:03,277 - Knowledge - INFO - worker kw8 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/README.md from ingest queue
+2025-08-13 13:33:03,277 - Knowledge - INFO - adding /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/landingScreen.jsx to ingest queue
+2025-08-13 13:33:03,347 - Knowledge - INFO - knowledge worker kw16 start
+2025-08-13 13:33:03,348 - Knowledge - INFO - worker kw17 created with dedicated MongoDB connection (total: 17)
+2025-08-13 13:33:03,574 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:33:03,664 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:33:03,808 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/postcss.config.js
+2025-08-13 13:33:03,906 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/README.md
+2025-08-13 13:33:03,980 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:33:03,981 - Knowledge - INFO - worker kw9 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/tailwind.config.js from ingest queue
+2025-08-13 13:33:03,982 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:33:03,982 - Knowledge - INFO - adding /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/_app.js to ingest queue
+2025-08-13 13:33:04,189 - Knowledge - INFO - knowledge worker kw17 start
+2025-08-13 13:33:04,193 - Knowledge - INFO - worker kw18 created with dedicated MongoDB connection (total: 18)
+2025-08-13 13:33:04,310 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/footer.jsx
+2025-08-13 13:33:04,391 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/navbar.jsx
+2025-08-13 13:33:04,704 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:33:04,847 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/tailwind.config.js
+2025-08-13 13:33:04,911 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:33:05,017 - Knowledge - INFO - worker kw15 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/jsconfig.json from ingest queue
+2025-08-13 13:33:05,017 - Knowledge - INFO - worker kw14 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/products/[id].jsx from ingest queue
+2025-08-13 13:33:05,017 - Knowledge - INFO - adding /app/data/T0015/122419/b5321oc/Keyboardr-122419/package.json to ingest queue
+2025-08-13 13:33:05,265 - Knowledge - INFO - knowledge worker kw18 start
+2025-08-13 13:33:05,267 - Knowledge - INFO - worker kw19 created with dedicated MongoDB connection (total: 19)
+2025-08-13 13:33:05,593 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/features.jsx
+2025-08-13 13:33:05,773 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/products.jsx
+2025-08-13 13:33:05,912 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/jsconfig.json
+2025-08-13 13:33:06,001 - Knowledge - INFO - Thread kw14 - File [id].jsx - Remaining files in queue: 11
+2025-08-13 13:33:06,184 - Knowledge - INFO - worker kw13 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/products/index.jsx from ingest queue
+2025-08-13 13:33:06,791 - Knowledge - INFO - Thread kw13 - File index.jsx - Remaining files in queue: 6
+2025-08-13 13:33:06,184 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:33:06,184 - Knowledge - INFO - worker kw16 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/_document.js from ingest queue
+2025-08-13 13:33:06,184 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:33:06,184 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:33:06,184 - Knowledge - INFO - worker kw7 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/index.js from ingest queue
+2025-08-13 13:33:06,184 - Knowledge - INFO - worker kw17 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/about/[id].js from ingest queue
+2025-08-13 13:33:06,239 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:33:06,240 - Knowledge - INFO - worker kw3 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/about/index.jsx from ingest queue
+2025-08-13 13:33:07,738 - Knowledge - INFO - Thread kw3 - File index.jsx - Remaining files in queue: 6
+2025-08-13 13:33:06,317 - Knowledge - INFO - knowledge worker kw19 start
+2025-08-13 13:33:06,320 - Knowledge - INFO - worker kw20 created with dedicated MongoDB connection (total: 20)
+2025-08-13 13:33:06,694 - Knowledge - INFO - start ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/products/[id].jsx
+2025-08-13 13:33:06,184 - Knowledge - INFO - worker kw4 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/api/hello.js from ingest queue
+2025-08-13 13:33:06,955 - Knowledge - INFO - start ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/products/index.jsx
+2025-08-13 13:33:07,071 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:33:07,170 - Knowledge - INFO - Thread kw16 - File _document.js - Remaining files in queue: 6
+2025-08-13 13:33:07,273 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:33:07,382 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:33:07,481 - Knowledge - INFO - Thread kw7 - File index.js - Remaining files in queue: 6
+2025-08-13 13:33:07,562 - Knowledge - INFO - Thread kw17 - File [id].js - Remaining files in queue: 6
+2025-08-13 13:33:07,643 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:33:06,240 - Knowledge - INFO - adding /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/rating.jsx to ingest queue
+2025-08-13 13:33:07,840 - Knowledge - INFO - start ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/about/index.jsx
+2025-08-13 13:33:08,027 - Knowledge - INFO - knowledge worker kw20 start
+2025-08-13 13:33:08,030 - Knowledge - WARNING - High connection count: 21 connections active
+2025-08-13 13:33:09,460 - Knowledge - INFO - worker kw21 created with dedicated MongoDB connection (total: 21)
+2025-08-13 13:33:08,447 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/next.config.js
+2025-08-13 13:33:08,543 - Knowledge - INFO - start ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/_document.js
+2025-08-13 13:33:08,651 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/postcss.config.js
+2025-08-13 13:33:08,743 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/README.md
+2025-08-13 13:33:08,862 - Knowledge - INFO - start ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/index.js
+2025-08-13 13:33:08,941 - Knowledge - INFO - start ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/about/[id].js
+2025-08-13 13:33:09,041 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/tailwind.config.js
+2025-08-13 13:33:09,133 - Knowledge - INFO - worker kw18 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/styles/Home.module.css from ingest queue
+2025-08-13 13:33:10,468 - Knowledge - INFO - Thread kw18 - File Home.module.css - Remaining files in queue: 6
+2025-08-13 13:33:09,235 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/about/index.jsx
+2025-08-13 13:33:08,254 - Knowledge - INFO - Thread kw4 - File hello.js - Remaining files in queue: 6
+2025-08-13 13:33:09,579 - Knowledge - INFO - knowledge worker kw21 start
+2025-08-13 13:33:09,581 - Knowledge - WARNING - High connection count: 22 connections active
+2025-08-13 13:33:09,762 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/_document.js
+2025-08-13 13:33:10,280 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/about/[id].js
+2025-08-13 13:33:09,133 - Knowledge - INFO - adding /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/navbar.jsx to ingest queue
+2025-08-13 13:33:10,550 - Knowledge - INFO - start ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/styles/Home.module.css
+2025-08-13 13:33:10,678 - Knowledge - INFO - done fast ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/about/index.jsx
+2025-08-13 13:33:10,804 - Knowledge - INFO - start ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/api/hello.js
+2025-08-13 13:33:11,085 - Knowledge - INFO - done fast ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/_document.js
+2025-08-13 13:33:11,194 - Knowledge - INFO - done fast ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/about/[id].js
+2025-08-13 13:33:11,287 - Knowledge - INFO - worker kw11 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/styles/globals.css from ingest queue
+2025-08-13 13:33:11,438 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:33:11,442 - Knowledge - INFO - worker kw19 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/landing.jsx from ingest queue
+2025-08-13 13:33:12,268 - Knowledge - INFO - Thread kw19 - File landing.jsx - Remaining files in queue: 4
+2025-08-13 13:33:11,576 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/about/index.jsx
+2025-08-13 13:33:11,657 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/api/hello.js
+2025-08-13 13:33:11,886 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/_document.js
+2025-08-13 13:33:10,972 - Knowledge - INFO - worker kw22 created with dedicated MongoDB connection (total: 22)
+2025-08-13 13:33:11,984 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/about/[id].js
+2025-08-13 13:33:12,013 - Knowledge - INFO - Thread kw11 - File globals.css - Remaining files in queue: 4
+2025-08-13 13:33:12,127 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:33:13,469 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/jsconfig.json
+2025-08-13 13:33:12,445 - Knowledge - INFO - start ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/landing.jsx
+2025-08-13 13:33:12,452 - Knowledge - INFO - worker kw21 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/_app.js from ingest queue
+2025-08-13 13:33:12,707 - Knowledge - INFO - done fast ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/api/hello.js
+2025-08-13 13:33:12,932 - Knowledge - INFO - adding /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/footer.jsx to ingest queue
+2025-08-13 13:33:13,106 - Knowledge - INFO - done ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/products/[id].jsx
+2025-08-13 13:33:13,118 - Knowledge - INFO - knowledge worker kw22 start
+2025-08-13 13:33:13,130 - Knowledge - WARNING - High connection count: 23 connections active
+2025-08-13 13:33:13,334 - Knowledge - INFO - start ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/styles/globals.css
+2025-08-13 13:33:13,336 - Knowledge - INFO - done ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/products/index.jsx
+2025-08-13 13:33:11,449 - Knowledge - INFO - worker kw5 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/landingScreen.jsx from ingest queue
+2025-08-13 13:33:13,736 - Knowledge - INFO - Thread kw21 - File _app.js - Remaining files in queue: 3
+2025-08-13 13:33:13,863 - Knowledge - INFO - done ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/styles/Home.module.css
+2025-08-13 13:33:13,887 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/api/hello.js
+2025-08-13 13:33:13,954 - Knowledge - INFO - worker kw20 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/package.json from ingest queue
+2025-08-13 13:33:13,955 - Knowledge - INFO - adding /app/data/T0015/122419/b5321oc/Keyboardr-122419/next.config.js to ingest queue
+2025-08-13 13:33:14,055 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/products/[id].jsx
+2025-08-13 13:33:14,260 - Knowledge - INFO - worker kw23 created with dedicated MongoDB connection (total: 23)
+2025-08-13 13:33:14,461 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/products/index.jsx
+2025-08-13 13:33:14,535 - Knowledge - INFO - Thread kw5 - File landingScreen.jsx - Remaining files in queue: 3
+2025-08-13 13:33:14,628 - Knowledge - INFO - start ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/_app.js
+2025-08-13 13:33:14,712 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/styles/Home.module.css
+2025-08-13 13:33:14,904 - Knowledge - INFO - Thread kw20 - File package.json - Remaining files in queue: 3
+2025-08-13 13:33:14,993 - Knowledge - INFO - adding /app/data/T0015/122419/b5321oc/Keyboardr-122419/postcss.config.js to ingest queue
+2025-08-13 13:33:15,220 - Knowledge - INFO - knowledge worker kw23 start
+2025-08-13 13:33:15,343 - Knowledge - INFO - done ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/index.js
+2025-08-13 13:33:15,448 - Knowledge - INFO - start ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/landingScreen.jsx
+2025-08-13 13:33:15,560 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/_app.js
+2025-08-13 13:33:15,774 - Knowledge - INFO - start ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/package.json
+2025-08-13 13:33:15,865 - Knowledge - INFO - adding /app/data/T0015/122419/b5321oc/Keyboardr-122419/README.md to ingest queue
+2025-08-13 13:33:16,062 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/index.js
+2025-08-13 13:33:16,260 - Knowledge - INFO - done fast ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/_app.js
+2025-08-13 13:33:16,359 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/122419/b5321oc/Keyboardr-122419/package.json
+2025-08-13 13:33:16,440 - Knowledge - INFO - adding /app/data/T0015/122419/b5321oc/Keyboardr-122419/tailwind.config.js to ingest queue
+2025-08-13 13:33:16,685 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/_app.js
+2025-08-13 13:33:16,755 - Knowledge - INFO - done fast ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/package.json
+2025-08-13 13:33:16,863 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:33:16,863 - Knowledge - INFO - adding /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/features.jsx to ingest queue
+2025-08-13 13:33:17,082 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/package.json
+2025-08-13 13:33:17,210 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:33:17,293 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:33:17,293 - Knowledge - INFO - adding /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/products.jsx to ingest queue
+2025-08-13 13:33:17,503 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/about/index.jsx
+2025-08-13 13:33:17,588 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:33:17,679 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:33:17,761 - Knowledge - INFO - worker kw6 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/rating.jsx from ingest queue
+2025-08-13 13:33:17,761 - Knowledge - INFO - worker kw22 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/navbar.jsx from ingest queue
+2025-08-13 13:33:17,761 - Knowledge - INFO - worker kw12 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/footer.jsx from ingest queue
+2025-08-13 13:33:17,761 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:33:17,761 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:33:17,761 - Knowledge - INFO - worker kw23 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/next.config.js from ingest queue
+2025-08-13 13:33:17,762 - Knowledge - INFO - worker kw8 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/postcss.config.js from ingest queue
+2025-08-13 13:33:17,762 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:33:18,759 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:33:17,762 - Knowledge - INFO - worker kw10 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/README.md from ingest queue
+2025-08-13 13:33:17,762 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:33:17,762 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:33:17,762 - Knowledge - INFO - adding /app/data/T0015/122419/b5321oc/Keyboardr-122419/jsconfig.json to ingest queue
+2025-08-13 13:33:17,898 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/_document.js
+2025-08-13 13:33:17,948 - Knowledge - INFO - done ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/styles/globals.css
+2025-08-13 13:33:17,993 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:33:18,108 - Knowledge - INFO - Thread kw6 - File rating.jsx - Remaining files in queue: 3
+2025-08-13 13:33:18,187 - Knowledge - INFO - Thread kw22 - File navbar.jsx - Remaining files in queue: 3
+2025-08-13 13:33:18,268 - Knowledge - INFO - Thread kw12 - File footer.jsx - Remaining files in queue: 3
+2025-08-13 13:33:18,387 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:33:18,484 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:33:18,590 - Knowledge - INFO - Thread kw23 - File next.config.js - Remaining files in queue: 3
+2025-08-13 13:33:18,676 - Knowledge - INFO - Thread kw8 - File postcss.config.js - Remaining files in queue: 3
+2025-08-13 13:33:17,762 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:33:18,857 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/index.js
+2025-08-13 13:33:18,986 - Knowledge - INFO - Thread kw10 - File README.md - Remaining files in queue: 3
+2025-08-13 13:33:20,676 - Knowledge - INFO - start ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/README.md
+2025-08-13 13:33:19,192 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:33:19,294 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:33:19,297 - Knowledge - INFO - worker kw2 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/tailwind.config.js from ingest queue
+2025-08-13 13:33:19,297 - Knowledge - INFO - worker kw9 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/features.jsx from ingest queue
+2025-08-13 13:33:19,297 - Knowledge - INFO - worker kw1 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/products.jsx from ingest queue
+2025-08-13 13:33:19,431 - Knowledge - INFO - worker kw15 pull /app/data/T0015/122419/b5321oc/Keyboardr-122419/jsconfig.json from ingest queue
+2025-08-13 13:33:19,485 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/styles/globals.css
+2025-08-13 13:33:19,599 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/about/[id].js
+2025-08-13 13:33:19,731 - Knowledge - INFO - start ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/rating.jsx
+2025-08-13 13:33:19,813 - Knowledge - INFO - done ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/landing.jsx
+2025-08-13 13:33:19,832 - Knowledge - INFO - start ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/navbar.jsx
+2025-08-13 13:33:19,912 - Knowledge - INFO - start ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/footer.jsx
+2025-08-13 13:33:20,053 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/products/[id].jsx
+2025-08-13 13:33:20,157 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/styles/Home.module.css
+2025-08-13 13:33:20,227 - Knowledge - INFO - done ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/landingScreen.jsx
+2025-08-13 13:33:20,254 - Knowledge - INFO - start ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/next.config.js
+2025-08-13 13:33:20,351 - Knowledge - INFO - start ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/postcss.config.js
+2025-08-13 13:33:20,440 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:33:19,101 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:33:20,771 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/122419/b5321oc/Keyboardr-122419/README.md
+2025-08-13 13:33:20,880 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/api/hello.js
+2025-08-13 13:33:20,984 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:33:21,072 - Knowledge - INFO - persist search terms embedding for pages/index.js
+2025-08-13 13:33:21,093 - Knowledge - INFO - Thread kw2 - File tailwind.config.js - Remaining files in queue: 0
+2025-08-13 13:33:21,222 - Knowledge - INFO - Thread kw9 - File features.jsx - Remaining files in queue: 0
+2025-08-13 13:33:21,355 - Knowledge - INFO - Thread kw1 - File products.jsx - Remaining files in queue: 0
+2025-08-13 13:33:21,482 - Knowledge - INFO - Thread kw15 - File jsconfig.json - Remaining files in queue: 0
+2025-08-13 13:33:21,789 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/rating.jsx
+2025-08-13 13:33:21,880 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/landing.jsx
+2025-08-13 13:33:22,370 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/landingScreen.jsx
+2025-08-13 13:33:22,442 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/122419/b5321oc/Keyboardr-122419/next.config.js
+2025-08-13 13:33:22,523 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/122419/b5321oc/Keyboardr-122419/postcss.config.js
+2025-08-13 13:33:22,636 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/_app.js
+2025-08-13 13:33:22,723 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/package.json
+2025-08-13 13:33:22,847 - Knowledge - INFO - done fast ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/README.md
+2025-08-13 13:33:23,067 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/products/index.jsx
+2025-08-13 13:33:23,235 - Knowledge - INFO - start ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/tailwind.config.js
+2025-08-13 13:33:23,342 - Knowledge - INFO - start ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/features.jsx
+2025-08-13 13:33:23,461 - Knowledge - INFO - start ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/products.jsx
+2025-08-13 13:33:23,536 - Knowledge - INFO - persist search terms embedding for pages/products/[id].jsx
+2025-08-13 13:33:23,596 - Knowledge - INFO - start ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/jsconfig.json
+2025-08-13 13:33:23,676 - Knowledge - INFO - done fast ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/rating.jsx
+2025-08-13 13:33:23,981 - Knowledge - INFO - done fast ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/next.config.js
+2025-08-13 13:33:24,085 - Knowledge - INFO - done fast ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/postcss.config.js
+2025-08-13 13:33:24,389 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/README.md
+2025-08-13 13:33:25,062 - Knowledge - INFO - Fast-track processing for simple file: /app/data/T0015/122419/b5321oc/Keyboardr-122419/jsconfig.json
+2025-08-13 13:33:25,069 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:33:25,209 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/rating.jsx
+2025-08-13 13:33:25,330 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/next.config.js
+2025-08-13 13:33:25,396 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:33:25,399 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:33:26,158 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:33:25,657 - Knowledge - INFO - done fast ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/jsconfig.json
+2025-08-13 13:33:25,755 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:33:25,860 - Knowledge - INFO - persist search terms embedding for pages/products/index.jsx
+2025-08-13 13:33:26,045 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:33:25,409 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/postcss.config.js
+2025-08-13 13:33:26,267 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/landingScreen.jsx
+2025-08-13 13:33:26,309 - Knowledge - INFO - done ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/navbar.jsx
+2025-08-13 13:33:26,361 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/jsconfig.json
+2025-08-13 13:33:26,448 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/styles/globals.css
+2025-08-13 13:33:26,583 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:33:26,585 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:33:26,672 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/landing.jsx
+2025-08-13 13:33:26,684 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:33:26,806 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:33:27,042 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/navbar.jsx
+2025-08-13 13:33:27,303 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:33:27,353 - Knowledge - INFO - persist search terms embedding for components/landingScreen.jsx
+2025-08-13 13:33:27,394 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:33:28,057 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/next.config.js
+2025-08-13 13:33:27,670 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:33:27,778 - Knowledge - INFO - done ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/footer.jsx
+2025-08-13 13:33:27,868 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/README.md
+2025-08-13 13:33:27,566 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:33:28,260 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/postcss.config.js
+2025-08-13 13:33:28,355 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/footer.jsx
+2025-08-13 13:33:28,418 - Knowledge - INFO - persist search terms embedding for styles/globals.css
+2025-08-13 13:33:28,547 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/rating.jsx
+2025-08-13 13:33:28,816 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:33:28,818 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:33:28,942 - Knowledge - INFO - done ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/tailwind.config.js
+2025-08-13 13:33:29,028 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:33:29,106 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:33:29,228 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/tailwind.config.js
+2025-08-13 13:33:29,315 - Knowledge - INFO - persist search terms embedding for components/landing.jsx
+2025-08-13 13:33:29,340 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/navbar.jsx
+2025-08-13 13:33:29,421 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/jsconfig.json
+2025-08-13 13:33:29,964 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:33:30,070 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:33:30,160 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/footer.jsx
+2025-08-13 13:33:30,629 - Knowledge - INFO - persist search terms embedding for components/navbar.jsx
+2025-08-13 13:33:31,357 - Knowledge - INFO - persist search terms embedding for components/footer.jsx
+2025-08-13 13:33:31,451 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:33:31,545 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:33:31,583 - Knowledge - INFO - done ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/products.jsx
+2025-08-13 13:33:31,640 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/tailwind.config.js
+2025-08-13 13:33:31,652 - Knowledge - INFO - done ingest for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/features.jsx
+2025-08-13 13:33:31,799 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/products.jsx
+2025-08-13 13:33:32,003 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/features.jsx
+2025-08-13 13:33:32,284 - Knowledge - INFO - persist search terms embedding for tailwind.config.js
+2025-08-13 13:33:32,416 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:33:32,419 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:33:32,496 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:33:32,608 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7fc81d79f650>
+2025-08-13 13:33:32,703 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/features.jsx
+2025-08-13 13:33:32,832 - Knowledge - INFO - persist ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/products.jsx
+2025-08-13 13:33:33,282 - Knowledge - INFO - persist search terms embedding for components/features.jsx
+2025-08-13 13:33:33,727 - Knowledge - INFO - persist search terms embedding for components/products.jsx
+2025-08-13 13:33:33,823 - Knowledge - INFO - Knowledge creation complete
+2025-08-13 13:33:33,911 - Knowledge - INFO - Updating org costs, total cost: 0.003132
+2025-08-13 13:33:34,864 - Knowledge - INFO - Saving knowledge to Redis...
+2025-08-13 13:33:34,974 - Knowledge - INFO - Knowledge saved to Redis successfully
