@@ -400,3 +400,84 @@
 2025-08-13 13:33:33,911 - Knowledge - INFO - Updating org costs, total cost: 0.003132
 2025-08-13 13:33:34,864 - Knowledge - INFO - Saving knowledge to Redis...
 2025-08-13 13:33:34,974 - Knowledge - INFO - Knowledge saved to Redis successfully
+2025-08-13 13:44:31,215 - Knowledge - INFO - Redis support added with prefix knowledge:b5321oc:
+2025-08-13 13:44:31,514 - Knowledge - INFO - load persisted knowledge: begin
+2025-08-13 13:44:31,866 - Knowledge - INFO - Persisted knowledge files in /app/data/T0015/122419/b5321oc/Keyboardr-122419/.knowledge have been renamed to use .json
+2025-08-13 13:44:31,957 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:44:32,036 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f44be82c990>
+2025-08-13 13:44:32,110 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/_document.js
+2025-08-13 13:44:32,192 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:44:32,269 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f44be82c990>
+2025-08-13 13:44:32,350 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/about/index.jsx
+2025-08-13 13:44:32,446 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:44:32,525 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f44be82c990>
+2025-08-13 13:44:32,608 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/package.json
+2025-08-13 13:44:32,719 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:44:32,841 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f44be82c990>
+2025-08-13 13:44:32,932 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/products.jsx
+2025-08-13 13:44:33,016 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:44:33,117 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f44be82c990>
+2025-08-13 13:44:33,219 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/navbar.jsx
+2025-08-13 13:44:33,310 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:44:33,388 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f44be82c990>
+2025-08-13 13:44:33,505 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/index.js
+2025-08-13 13:44:33,593 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:44:33,671 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f44be82c990>
+2025-08-13 13:44:33,798 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/products/[id].jsx
+2025-08-13 13:44:33,906 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:44:33,994 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f44be82c990>
+2025-08-13 13:44:34,099 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/_app.js
+2025-08-13 13:44:34,193 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:44:34,323 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f44be82c990>
+2025-08-13 13:44:34,448 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/postcss.config.js
+2025-08-13 13:44:34,569 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:44:34,649 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f44be82c990>
+2025-08-13 13:44:34,732 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/styles/globals.css
+2025-08-13 13:44:34,832 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:44:34,916 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f44be82c990>
+2025-08-13 13:44:34,999 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/next.config.js
+2025-08-13 13:44:35,088 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:44:35,202 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f44be82c990>
+2025-08-13 13:44:35,279 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/about/[id].js
+2025-08-13 13:44:35,365 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:44:35,457 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f44be82c990>
+2025-08-13 13:44:35,583 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/landing.jsx
+2025-08-13 13:44:35,684 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:44:35,772 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f44be82c990>
+2025-08-13 13:44:35,853 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/landingScreen.jsx
+2025-08-13 13:44:35,931 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:44:36,010 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f44be82c990>
+2025-08-13 13:44:36,118 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/README.md
+2025-08-13 13:44:36,219 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:44:36,311 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f44be82c990>
+2025-08-13 13:44:36,399 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/rating.jsx
+2025-08-13 13:44:36,494 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:44:36,577 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f44be82c990>
+2025-08-13 13:44:36,687 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/products/index.jsx
+2025-08-13 13:44:36,793 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:44:36,880 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f44be82c990>
+2025-08-13 13:44:36,961 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/jsconfig.json
+2025-08-13 13:44:37,086 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:44:37,175 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f44be82c990>
+2025-08-13 13:44:37,287 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/tailwind.config.js
+2025-08-13 13:44:37,415 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:44:37,509 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f44be82c990>
+2025-08-13 13:44:37,600 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/styles/Home.module.css
+2025-08-13 13:44:37,682 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:44:37,786 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f44be82c990>
+2025-08-13 13:44:37,895 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/pages/api/hello.js
+2025-08-13 13:44:38,005 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:44:38,096 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f44be82c990>
+2025-08-13 13:44:38,220 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/footer.jsx
+2025-08-13 13:44:38,322 - Knowledge - INFO - Found code-base-name: https://github.com/kavia-common/Keyboardr-122419.git:kavia-main
+2025-08-13 13:44:38,400 - Knowledge - INFO - Found code_base: <app.utils.kg_build.knowledge.KnowledgeCodeBase object at 0x7f44be82c990>
+2025-08-13 13:44:38,512 - Knowledge - INFO - process ingested knowledge for /app/data/T0015/122419/b5321oc/Keyboardr-122419/components/features.jsx
+2025-08-13 13:44:38,645 - Knowledge - INFO - load persisted knowledge: end
+2025-08-13 13:44:38,755 - Knowledge - INFO - load persisted docinfo: begin
+2025-08-13 13:44:38,865 - Knowledge - INFO - load persisted docinfo: end
+2025-08-13 13:44:38,984 - Knowledge - INFO - worker kw1 created with dedicated MongoDB connection (total: 1)
+2025-08-13 13:44:39,088 - Knowledge - INFO - knowledge worker kw1 start
+2025-08-13 13:44:39,181 - Knowledge - INFO - Knowledge creation complete
+2025-08-13 13:44:39,330 - Knowledge - INFO - Updating org costs, total cost: 0
+2025-08-13 13:44:40,107 - Knowledge - INFO - Saving knowledge to Redis...
+2025-08-13 13:44:40,191 - Knowledge - INFO - Knowledge saved to Redis successfully
